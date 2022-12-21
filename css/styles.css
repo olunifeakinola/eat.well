@@ -1,0 +1,142 @@
+#greeting-section{
+	background-color: #0f0E0E;
+}
+
+h1{
+	padding-top: 25%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+    padding-bottom: 20px;
+    text-align: left;
+}
+.nav-link{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+	font-size: .85rem;
+}
+
+.navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	font-size: 2rem;
+}
+
+.container-fluid{
+	padding: 2% 15%;
+}
+
+input, textarea{
+	display: block;
+	padding: 15px;
+	margin: 10px;
+	width: 25%;
+}
+
+.gtnimage{
+	width: 100%;
+	transform: rotate(25deg);
+}
+
+.btn{
+	margin-right: 2%;
+}
+.me{
+	text-align: center;
+}
+.card-img-top{
+	height:300px;
+}
+.h3{
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+}
+.container{
+	padding: 10%;
+}
+.card{
+	height: 430px;
+}
+h4{
+	font-family: Montserrat;
+	font-weight: 400;
+	font-size: .8 rem;
+}
+.p{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#amenities{
+	background-color: #eeee;
+	padding: 5% 10%; 
+}
+
+.amn-h4{
+	font-size: 2rem;
+
+}
+h3{
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+}
+.row{
+	text-align: center;
+}
+.images{
+	text-transform:rotate(4deg);
+    border-radius: 10%;
+}
+
+#gallery{
+	text-align: center;
+	background-color: #000;
+	padding: 5% 15%;
+}
+
+.contact{
+	text-align: center;
+}
+h2{
+	font-family: Montserrat;
+	font-weight: 900;
+	color: white;
+	padding-bottom: 5%;
+}
+#cont{
+	padding: 5% 15%;
+	text-align: center;
+}
+a{
+	text-decoration: none; 
+}
+
+.input{
+ text-align: center;	
+ padding: 5% 10%;
+ background-color: #eeee;
+}
+.order{
+	font-family: Montserrat;
+	font-weight: 900;
+}
+
+.list{
+	text-align: center;
+	padding: 5% 15%;
+	background-color: #000;
+}
+
+.p{
+	font-family: Montserrat;
+	font-weight: 900;
+	background-color: #eeee;
+}
+
+.abc{
+	font-family: Montserrat;
+	font-weight: 900;
+	color: white;
+	padding-bottom: 5%;
+}
